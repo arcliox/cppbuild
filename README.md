@@ -5,6 +5,8 @@ Idea, use C++ to build C++ projects.
 
 To try it out: 
 ```
+mkdir ./bin
+cd bin
 g++ build.cpp -o build
 ```
 
@@ -16,6 +18,6 @@ Then simply run
 If you want to see the main program in action you can execute:
 
 ```
-./bin/hello
+./hello
 ```
 
